@@ -1,23 +1,28 @@
 #formulario
 {
     display: block;
-    position:absolute;
     position:relative;
     left:42%;
     top: 150px;
-    width:200px;
+    width:185px;
     height:240px;
-    background-color: aqua;
+    background-color: rgb(77, 85, 85);
+    color: white;
 }
 textarea{
     resize: none;
-    width: 180px;
+    width: 179px;
     float: center;
-    
+}
 
 
 #btn{
-    border-radius: 10%;
-    border-color: black;
+    border-radius: 4%;
+    border-color: rgb(54, 141, 134);
+
+}
+label{
+    border-color: cyan;
+    border-style: groove;
 }
 
