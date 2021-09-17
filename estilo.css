@@ -1,0 +1,23 @@
+#formulario
+{
+    display: block;
+    position:absolute;
+    position:relative;
+    left:42%;
+    top: 150px;
+    width:200px;
+    height:240px;
+    background-color: aqua;
+}
+textarea{
+    resize: none;
+    width: 180px;
+    float: center;
+    
+
+
+#btn{
+    border-radius: 10%;
+    border-color: black;
+}
+
